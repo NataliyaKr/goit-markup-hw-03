@@ -68,6 +68,11 @@ text-decoration: none;
 .header-tel:hover,.header-tel:focus {
     color: var(--background-btn-hover)
 }
+.container {
+    width: 1440px;
+    height: 72px;
+    
+}
 .hero {
     text-align: center;
     background: var(--second-text-color)
