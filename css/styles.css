@@ -12,11 +12,29 @@ body {
     --background-btn-hover: #404BBF;
     
 }
+h1,h2,h3,h4,p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+ul {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+}
+img {
+    display: block;
+}
 .list {
 list-style: none;
 }
 .link {
 text-decoration: none;
+}
+.container {
+    max-width: 1128px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: 0 auto;
 }
 .header {
 }
